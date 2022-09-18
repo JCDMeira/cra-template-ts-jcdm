@@ -1,115 +1,45 @@
-<p align="center">
-  <image
-  src="https://img.shields.io/github/languages/count/<your-nick>/<repo-name>"
-  />
-  <image
-  src="https://img.shields.io/github/languages/top/<your-nick>/<repo-name>"
-  />
-  <image
-  src="https://img.shields.io/github/last-commit/<your-nick>/<repo-name>"
-  />
-  <image
-  src="https://img.shields.io/github/watchers/<your-nick>/<repo-name>?style=social"
-  />
-</p>
+# CRA Template with Typescript & styled-components
 
-# 📋 Indíce
+This template was setup with:
 
-- [Proposta / objetivos ](#id01)
-  - [O desafio](#id01.1)
-  - [O que eu aprendi](#id01.2)
-- [Screenshots](#id02)
-- [Links](#id03)
-- [Feito com](#id04)
-- [Pré-requisitos](#id05)
-- [Procedimentos de instalação](#id06)
-- [Autor](#id07)
+- [styled-components](https://styled-components.com)
 
-# 🚀 Proposta / objetivos <a name="id01"></a>
+## Available Scripts
 
-## :trophy: O desafio <a name="id01.1"></a>
+In the project directory, you can run:
 
-## :pushpin: O que eu aprendi <a name="id01.2"></a>
+### `yarn start`
 
-# :camera_flash: Screenshots <a name="id02"></a>
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-## :iphone: Mobile design
+### `yarn test`
 
-<p  align="center">
-  <img width="300px" src="./presentation/mobile.png" align="center"></img>
-</p>
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-## :iphone: Tablets design
+### `yarn build`
 
-<p  align="center"><img width="420px"  src="./presentation/tablet.png" align="center"></img></p>
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-## :desktop_computer: Desktop design
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-<p  align="center"><img width="720px" src="./presentation/desktop.png" align="center"></img></p>
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-## 🥇 result of my work
+### `yarn eject`
 
-<p  align="center"><img width="720px" src="./presentation/myWork.gif" align="center"></img></p>
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-<br />
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-# :dart: Links <a name="id03"></a>
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-<br />
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-- My figma design: [Figma](https://www.figma.com/)
-- any documentation (notion, postman...): [doc](https://www.notion.so/)
+## Learn More
 
-<br />
+You can learn more in the [Custom Templates documentation](https://create-react-app.dev/docs/custom-templates/#building-a-template).
 
-# 🛠 Feito com <a name="id04"></a>
-
-<br />
-
-- Mobile-first workflow
-- [React](https://reactjs.org/)
-- [Styled components](https://styled-components.com)
-
-<br />
-
-# ☑️ Pré-requisitos <a name="id05"></a>
-
-<br />
-
-- [x] Editor de código de sua preferência (recomendado VS code)
-- [x] Git
-- [x] Gerenciador de pacotes Yarn ou NPM
-- [x] ...qualquer outro requisito
-
-<br />
-
-# 📝 Procedimentos de instalação <a name="id06"></a>
-
-<br />
-
-Clone este repositório usando o comando:
-
-```bash
-git clone https://github.com/<your-nick>/<repo-name>.git
-```
-
-Na pasta do projeto instale as dependências com uso do npm ou yarn
-
-```bash
-npm install
-
-ou
-
-yarn install
-```
-
-<br />
-
-# :sunglasses: Autor <a name="id07"></a>
-
-<br />
-
-- Personal Page - [your-name](your-url)
-- Frontend Mentor - [your-page](your-url)
-- Instagram - [your-@](your-url)
-- GitHub - [your-nick](your-url)
+To learn React, check out the [React documentation](https://reactjs.org/).
